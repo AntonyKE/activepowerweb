@@ -738,11 +738,6 @@ form button.btn-primary:hover {
     1 - Footer
 ------------------------------------*/
 footer {
-<<<<<<< HEAD
-  background: url(../images/footer-bg.png) center center/cover no-repeat #26264b;
-}
-
-=======
   background: url(../images/footer-bg.png) center center/cover no-repeat ;
   height: 300px; /* or whatever height you want for your footer */
    position: relative;
@@ -750,7 +745,6 @@ footer {
 }
 
 
->>>>>>> Add project files.
 /*-----------------------------------
     1 - Footer Widgets
 ------------------------------------*/
@@ -918,13 +912,10 @@ span {
     1 - Foot Note
 ------------------------------------*/
 .foot-note {
-<<<<<<< HEAD
-=======
  position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
->>>>>>> Add project files.
   padding: 35px 0;
   background-color: #ee1515;
   color: #26264b;
